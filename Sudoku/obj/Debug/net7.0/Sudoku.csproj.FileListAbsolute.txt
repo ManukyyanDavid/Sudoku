@@ -1,0 +1,15 @@
+C:\Users\David\Desktop\Sudoku\Sudoku\bin\Debug\net7.0\Sudoku.exe
+C:\Users\David\Desktop\Sudoku\Sudoku\bin\Debug\net7.0\Sudoku.deps.json
+C:\Users\David\Desktop\Sudoku\Sudoku\bin\Debug\net7.0\Sudoku.runtimeconfig.json
+C:\Users\David\Desktop\Sudoku\Sudoku\bin\Debug\net7.0\Sudoku.dll
+C:\Users\David\Desktop\Sudoku\Sudoku\bin\Debug\net7.0\Sudoku.pdb
+C:\Users\David\Desktop\Sudoku\Sudoku\obj\Debug\net7.0\Sudoku.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Sudoku\Sudoku\obj\Debug\net7.0\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Sudoku\Sudoku\obj\Debug\net7.0\Sudoku.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Sudoku\Sudoku\obj\Debug\net7.0\Sudoku.AssemblyInfo.cs
+C:\Users\David\Desktop\Sudoku\Sudoku\obj\Debug\net7.0\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Sudoku\Sudoku\obj\Debug\net7.0\Sudoku.dll
+C:\Users\David\Desktop\Sudoku\Sudoku\obj\Debug\net7.0\refint\Sudoku.dll
+C:\Users\David\Desktop\Sudoku\Sudoku\obj\Debug\net7.0\Sudoku.pdb
+C:\Users\David\Desktop\Sudoku\Sudoku\obj\Debug\net7.0\Sudoku.genruntimeconfig.cache
+C:\Users\David\Desktop\Sudoku\Sudoku\obj\Debug\net7.0\ref\Sudoku.dll
